@@ -30,7 +30,6 @@ var songs = [
 //Хэрвээ олон байвал хамгийн эхэнд олдсоныг буцаана
 
 function search(songName) {
-
   return "some id";
 }
 
